@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-quotes-deploy/static/js/main.7d5bbdae.js",
+    "index.html": "/react-quotes-deploy/index.html",
+    "main.7d5bbdae.js.map": "/react-quotes-deploy/static/js/main.7d5bbdae.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7d5bbdae.js"
+  ]
+}
